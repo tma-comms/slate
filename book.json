@@ -1,6 +1,7 @@
 {
     "plugins": [
-        "insert-md"
+        "insert-md",
+        "zingchart"
     ],
     "pluginsConfig": {}
 }
